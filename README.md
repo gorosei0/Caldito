@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" conten="width=device-width, initial-scale=1.0"
+    <title>Caldito de Pollo</title>
+    <link rel="stylesheet" href="style.css">
+<head>
+<body>
+    <h1>Hola me gusta el caldo de pollo, es muy rico y saludable..</h1>
+    <p>VIVAAAAN LAS GOTICAS QLONAS :D</p>
+    <button id="boton">Haz clic aquí</button>
+
+    <script scr="script.js"></script>
+</body>
